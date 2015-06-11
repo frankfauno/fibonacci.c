@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 int main() {
 	int entrada=0, area=0, base=0, altura=0, lado=0;
 	printf("¿Qué área quieres sacar?\n1 - Área del cuadrado.\n2 - Área del triangulo.\n");
